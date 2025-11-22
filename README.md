@@ -3,7 +3,7 @@ Survive the Strange
 Đây là một dự án học tập, giới thiệu về *Unity Engine* với góc nhìn *3D*. Game là một *FPS* đơn giản với các khái niệm cơ bản. Người chơi phải:
 
 - Thu thập các vật phẩm theo thứ tự để tiến tới mục tiêu
-- Bắn hạ các turret thù
+- Bắn hạ các turret địch
 - Tránh mìn và máy bay địch
 - Thoát khỏi hòn đảo
 
