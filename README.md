@@ -24,9 +24,4 @@ Dự án bao gồm việc triển khai nhiều khái niệm. Những điều qua
 - Âm thanh (Audio)
 - Camera Occlusion
 
-Ghi chú cuối
----
-Vui lòng nghiên cứu và tạo các dự án dựa trên repository này, nhưng luôn ghi công phù hợp. Tất cả các asset được sử dụng đều miễn phí từ Asset Store và không được sử dụng cho mục đích thương mại. Tin tôi đi, nếu có thể, tôi sẽ viết lại từ đầu, nhưng nó hoạt động như hiện tại nên đã hoàn thành nhiệm vụ của nó.
-
-*Hãy gửi tin nhắn nếu bạn có bất kỳ câu hỏi nào!*
 
